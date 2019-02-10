@@ -1,4 +1,4 @@
-# finderprint_id_flutter
+# fingerprint_id_flutter
 
 A new Flutter project.
 
